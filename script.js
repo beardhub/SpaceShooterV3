@@ -61,13 +61,13 @@ function init(){
 		"W, A, S, D to move<br>"+
 		"Mouse to aim<br>"+
 		"Spacebar to shoot<br>"+
-		"Switching Weapons:<br>"+
-		"1 - Beam<br>"+
-		"2 - Splitter<br>"+
-		"3 - Heavy<br>"+
-		"4 - Gatling<br>"+
-		"5 - Flamethrower<br>"+
-		"Enter thesupersecretcode<br>to activate Omega weapons!<br>"+
+	//	"Switching Weapons:<br>"+
+	//	"1 - Beam<br>"+
+	//	"2 - Splitter<br>"+
+	//	"3 - Heavy<br>"+
+	//	"4 - Gatling<br>"+
+	//	"5 - Flamethrower<br>"+
+	//	"Enter thesupersecretcode<br>to activate Omega weapons!<br>"+
 		"+ - to zoom in and out";
 
 	//window.onresize = function(){resizewin();}
